@@ -90,7 +90,6 @@ namespace LinqToXML
 
 			xd.Save(@"C:\Users\summer\Desktop\MyXml.xml");
 
-
 			Console.WriteLine("修改");
 			Console.ReadKey();
 		}
